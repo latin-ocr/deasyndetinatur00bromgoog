@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deasyndetinatur00bromgoog_0008.png"; bbox 0 0 2842 4800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 235 1587 1370 1733">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 235 1510 1370 1733">
+     <span class='ocr_line' id='line_1_1' title="bbox 235 1587 1370 1733; baseline -0.002 -40"><span class='ocrx_word' id='word_1_1' title='bbox 235 1591 325 1693; x_wconf 75' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 361 1587 707 1733; x_wconf 69' lang='lat' dir='ltr'>ASYNDETI</span> <span class='ocrx_word' id='word_1_3' title='bbox 741 1591 1028 1694; x_wconf 71' lang='lat' dir='ltr'><strong>NATURA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1062 1591 1145 1692; x_wconf 73' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1181 1589 1370 1694; x_wconf 79' lang='lat' dir='ltr'><strong>APUD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 495 1889 1109 1996">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 495 1820 1109 2036">
+     <span class='ocr_line' id='line_1_2' title="bbox 495 1889 1109 1996; baseline 0.007 -4"><span class='ocrx_word' id='word_1_6' title='bbox 495 1889 920 1996; x_wconf 67' lang='lat' dir='ltr'><strong>AESOHYLUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 956 1889 1109 1996; x_wconf 67' lang='lat' dir='ltr'><strong>Usu</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1426 4800">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1426 4800">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1426 4800; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1426 4800; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
